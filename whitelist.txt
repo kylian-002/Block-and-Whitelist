@@ -1,0 +1,7 @@
+# Personal URL whitelist
+# Maintained for quick and easy management of allowed URLs.
+# This whitelist is used with blocky
+
+
+# Crypto related
+p2pool.io

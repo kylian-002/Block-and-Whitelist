@@ -5,3 +5,8 @@
 
 # Crypto related
 p2pool.io
+
+# Solcast
+go.solcast.com
+go.pardot.com
+app-ue1-public.fe.pardot.com
